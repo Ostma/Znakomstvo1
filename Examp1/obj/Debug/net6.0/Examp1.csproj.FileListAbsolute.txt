@@ -1,0 +1,15 @@
+C:\GB\Znakomstvo\repo\Examp1\bin\Debug\net6.0\Examp1.exe
+C:\GB\Znakomstvo\repo\Examp1\bin\Debug\net6.0\Examp1.deps.json
+C:\GB\Znakomstvo\repo\Examp1\bin\Debug\net6.0\Examp1.runtimeconfig.json
+C:\GB\Znakomstvo\repo\Examp1\bin\Debug\net6.0\Examp1.dll
+C:\GB\Znakomstvo\repo\Examp1\bin\Debug\net6.0\Examp1.pdb
+C:\GB\Znakomstvo\repo\Examp1\obj\Debug\net6.0\Examp1.csproj.AssemblyReference.cache
+C:\GB\Znakomstvo\repo\Examp1\obj\Debug\net6.0\Examp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\Znakomstvo\repo\Examp1\obj\Debug\net6.0\Examp1.AssemblyInfoInputs.cache
+C:\GB\Znakomstvo\repo\Examp1\obj\Debug\net6.0\Examp1.AssemblyInfo.cs
+C:\GB\Znakomstvo\repo\Examp1\obj\Debug\net6.0\Examp1.csproj.CoreCompileInputs.cache
+C:\GB\Znakomstvo\repo\Examp1\obj\Debug\net6.0\Examp1.dll
+C:\GB\Znakomstvo\repo\Examp1\obj\Debug\net6.0\refint\Examp1.dll
+C:\GB\Znakomstvo\repo\Examp1\obj\Debug\net6.0\Examp1.pdb
+C:\GB\Znakomstvo\repo\Examp1\obj\Debug\net6.0\Examp1.genruntimeconfig.cache
+C:\GB\Znakomstvo\repo\Examp1\obj\Debug\net6.0\ref\Examp1.dll
